@@ -1,0 +1,172 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"name": "Limón con semilla",
+			"price": 39.9,
+			"unit": "kg",
+			"vegetable": true,
+			"stock": 3,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Limon_fe7ji5.jpg"
+			],		
+			"quantity": 1,
+			"offer": {
+				"discount": 32
+			}
+		},
+		{
+			"id": 2,
+			"name": "Tomate",
+			"price": 21.79,
+			"unit": "kg",
+			"vegetable": true,
+			"stock": 1,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Jitomate_Bola_djfnf0.jpg"
+			],		
+			"quantity": 1,
+			"offer": {
+				"discount": 32
+			}
+		},
+		{
+			"id": 3,
+			"name": "Aguacate Hass",
+			"price": 56.8,
+			"unit": "kg",
+			"vegetable": true,
+			"stock": 3,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Aguacate_t3s7on.jpg"
+			],
+			"quantity": 1,
+			"offer": {
+				"discount": 18
+			}
+		},
+		{
+			"id": 4,
+			"name": "Napal limpio",
+			"price": 25.8,
+			"unit": "kg",
+			"vegetable": true,
+			"stock": 3,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Nopal_kif48f.jpg"
+			],
+			"quantity": 1,
+			"offer": {
+				"discount": 13
+			}
+		},
+		{
+			"id": 5,
+			"name": "Tomate verde sin cascara",
+			"price": 22.89,
+			"unit": "kg",
+			"vegetable": true,
+			"stock": 5,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Tomate_verde_venx3k.jpg"
+			],
+			"quantity": 1,
+			"offer": {
+				"discount": 8
+			}
+		},
+		{
+			"id": 6,
+			"name": "Coca-Cola sin Azúcar",
+			"price": 28,
+			"unit": "U",
+			"stock": 2,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Cocacola_sin_azucar_vkid1e.jpg"
+			],
+			"quantity": 1,
+			"offer": {
+				"discount": 7
+			}
+		},
+		{
+			"id": 7,
+			"name": "San Rafael pechuga de pavo",
+			"price": 62.5,
+			"unit": "U",
+			"stock": 17,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Pechuga_de_pavo_lf9ui2.jpg"
+			],
+			"quantity": 1
+		},
+		{
+			"id": 8,
+			"name": "Bimbo Pan Blanco Grande",
+			"price": 38.9,
+			"unit": "U",
+			"stock": 10,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Pan_Bimbo_ys23kb.jpg"
+			],
+			"quantity": 1
+		},
+		{
+			"id": 9,
+			"name": "Mc Cormick Mayonesa",
+			"price": 48.5,
+			"unit": "U",
+			"stock": 5,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Mc_Cormick_Mayonesa_sbnnfy.jpg"
+			],
+			"quantity": 1
+		},
+		{
+			"id": 10,
+			"name": "Colgate Pasta Dental Triple Familiar",
+			"price": 35.5,
+			"unit": "U",
+			"stock": 10,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Colgate_s8wtgc.jpg"
+			],
+			"quantity": 1
+		},
+		{
+			"id": 11,
+			"name": "Huevos San Juan",
+			"price": 37.5,
+			"unit": "U",
+			"stock": 17,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Huevos_d6blg5.jpg"
+			],
+			"quantity": 1
+		},
+		{
+			"id": 12,
+			"name": "Fabuloso Limpiador Antibacterial",
+			"price": 28,
+			"unit": "U",
+			"stock": 3,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Fabuloso_i85qdv.jpg"
+			],
+			"quantity": 1
+		},
+		{
+			"id": 13,
+			"name": "Coca-Cola",
+			"price": 12.8,
+			"unit": "U",
+			"stock": 13,
+			"images": [
+				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Cocacola_y4uooc.jpg"
+			],
+			"quantity": 1
+		}
+		
+	]
+    		
+}
