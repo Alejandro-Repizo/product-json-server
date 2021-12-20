@@ -94,6 +94,7 @@
 			"name": "San Rafael pechuga de pavo",
 			"price": 62.5,
 			"unit": "U",
+			"info": "250 g ($0.25/gr)",
 			"stock": 17,
 			"images": [
 				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Pechuga_de_pavo_lf9ui2.jpg"
@@ -105,6 +106,7 @@
 			"name": "Bimbo Pan Blanco Grande",
 			"price": 38.9,
 			"unit": "U",
+			"info": "680 g ($0.6/gr)",
 			"stock": 10,
 			"images": [
 				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Pan_Bimbo_ys23kb.jpg"
@@ -116,6 +118,7 @@
 			"name": "Mc Cormick Mayonesa",
 			"price": 48.5,
 			"unit": "U",
+			"info": "507 g ($0.1/gr)",
 			"stock": 5,
 			"images": [
 				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Mc_Cormick_Mayonesa_sbnnfy.jpg"
@@ -127,6 +130,7 @@
 			"name": "Colgate Pasta Dental Triple Familiar",
 			"price": 35.5,
 			"unit": "U",
+			"info": "125 ml ($0.28/ml)",
 			"stock": 10,
 			"images": [
 				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Colgate_s8wtgc.jpg"
@@ -138,6 +142,7 @@
 			"name": "Huevos San Juan",
 			"price": 37.5,
 			"unit": "U",
+			"info": "18 und ($2.08/u)",
 			"stock": 17,
 			"images": [
 				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Huevos_d6blg5.jpg"
@@ -149,6 +154,7 @@
 			"name": "Fabuloso Limpiador Antibacterial",
 			"price": 28,
 			"unit": "U",
+			"info": "2 L ($18.96/l)",
 			"stock": 3,
 			"images": [
 				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020079/Name_Fabuloso_i85qdv.jpg"
@@ -160,6 +166,7 @@
 			"name": "Coca-Cola",
 			"price": 12.8,
 			"unit": "U",
+			"info": "1.5 L ($2.23/l)",
 			"stock": 13,
 			"images": [
 				"https://res.cloudinary.com/dqv604yhf/image/upload/v1640020078/Name_Cocacola_y4uooc.jpg"
